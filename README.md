@@ -116,7 +116,7 @@ Currently packages are tested on / crosscompiled for the following architectures
 | ly                          | 1.0.3   | [Encoded14](https://github.com/Encoded14) | compatibility: i686 x86_64 only |
 | sdbus-cpp                   | 2.2.1   | [Encoded14](https://github.com/Encoded14) | |
 | tomlplusplus                | 3.4.0   | [Encoded14](https://github.com/Encoded14) | |
-| zen-browser (stable)        | 1.17.6b | [Encoded14](https://github.com/Encoded14) | compatibility: glibc only |
+| zen-browser (stable)        | 1.17.2b | [Encoded14](https://github.com/Encoded14) | compatibility: glibc only |
 
 <hr>
 
